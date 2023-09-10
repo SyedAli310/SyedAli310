@@ -1,14 +1,12 @@
 Hi 👋 I'm Syed Ali
 =========================
 
-* 🖥️  Checkout my portfolio [czuar.me](http://czuar.me)
-* ✉️  You can contact me at [alizaidi310@gmail.com](mailto:alizaidi310@gmail.com)
+* 🖥️  Checkout my portfolio [syedali.vercel.app](https://syedali.vercel.app/) --> / [Projects](https://syedali.vercel.app/pages/projects.html) / [Skills](https://syedali.vercel.app/pages/skills.html)
+* ✉️  You can contact me through [Email](mailto:alizaidi310@gmail.com)
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/SyedAli310"><img src="https://github-readme-stats.vercel.app/api?username=SyedAli310&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=6366f1&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="SyedAli310's GitHub stats" /></a> <a href="http://www.github.com/SyedAli310"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedAli310&stroke=6366f1&background=171717&ring=ef4444&fire=ef4444&currStreakNum=6366f1&currStreakLabel=ef4444&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
-
-<a lign='center' href="http://www.github.com/SyedAli310"><img src="https://activity-graph.herokuapp.com/graph?username=SyedAli310&bg_color=171717&color=6366f1&line=0891b2&point=6366f1&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Socials
 
